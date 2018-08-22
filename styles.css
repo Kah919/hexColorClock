@@ -1,0 +1,12 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 56px;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 200px;
+	color: white;
+}
+
+#clock {
+	font-weight: 100;
+}
